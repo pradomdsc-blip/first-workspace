@@ -1,0 +1,3 @@
+- [feedback_logistica_formato.md] formato/procesamiento convocatorias logísticas
+- [feedback_velocidad_respuesta.md] no leer archivos al inicio — todo está en CLAUDE.md
+- [user_matias.md] perfil Matias: logística eventos, prefiere rapidez y respuestas directas
